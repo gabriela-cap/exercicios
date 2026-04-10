@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5718CE91-5FA2-4FC2-A4EF-AD52B88C4D75"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC7BE0EF-207F-4E2B-A2D2-DBD0E9762AEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Atividade1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "remover()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A216626-1FA5-453F-9BFC-0F85460C7B4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Atividade1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "alterar()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "4A216626-1FA5-453F-9BFC-0F85460C7B4F - 8d8a92e67c05bcbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Atividade1.alterar() -&gt; ()"
+                  moduleName = "Atividade1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrisou/Developer/Bradesco/IOS/exercicios/Atividade1/Atividade1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134">
+               </Location>
+               <Location
+                  uuid = "4A216626-1FA5-453F-9BFC-0F85460C7B4F - 8d8a92e67c05bcbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Atividade1.alterar() -&gt; ()"
+                  moduleName = "Atividade1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrisou/Developer/Bradesco/IOS/exercicios/Atividade1/Atividade1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
